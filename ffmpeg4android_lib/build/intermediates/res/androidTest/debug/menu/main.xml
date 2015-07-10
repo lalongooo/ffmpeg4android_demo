@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_about"
+        android:title="About"
+        android:showAsAction="never" />
+
+</menu>
+<!-- From: file:/Users/lalongooo/dev/java/android/studioprojects/ffmpeg4android_demo1/ffmpeg4android_lib/src/main/res/menu/main.xml --><!-- From: file:/Users/lalongooo/dev/java/android/studioprojects/ffmpeg4android_demo1/ffmpeg4android_lib/build/intermediates/bundles/debug/res/menu/main.xml -->

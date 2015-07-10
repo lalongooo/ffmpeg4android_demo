@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lalongooo/dev/java/android/studioprojects/ffmpeg4android_demo1/ffmpeg4android_demo/build/intermediates/exploded-aar/ffmpeg4android_demo1/ffmpeg4android_lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="f888a3666ca5de20ab2f5c6d311279482bf44701">
+        <dex dex="/Users/lalongooo/dev/java/android/studioprojects/ffmpeg4android_demo1/ffmpeg4android_demo/build/intermediates/pre-dexed/debug/classes-9afa514e99f19a96808f854d69e91e6489df6d9f.jar" />
+    </item>
+
+</items>
